@@ -55,7 +55,7 @@ img {
   display: block;
 }
 
-/* ---------- Nav ---------- */
+/* Nav */
 header.nav {
   position: fixed;
   top: 0;
@@ -180,7 +180,7 @@ header.nav.scrolled {
   }
 }
 
-/* ---------- Hero ---------- */
+/* Hero */
 /* WebKit-Mask */
 /* section.hero{
     position:relative; 
@@ -362,7 +362,7 @@ section.hero {
   }
 }
 
-/* ---------- Sections generic ---------- */
+/* Sections generic */
 section {
   padding: 96px 0;
 }
@@ -388,7 +388,7 @@ section+section {
   font-size: 1rem;
 }
 
-/* ---------- About ---------- */
+/* About */
 .about-grid {
   display: grid;
   grid-template-rows: 1fr 1fr;
@@ -441,7 +441,7 @@ section+section {
   }
 }
 
-/* ---------- Education ---------- */
+/* Education */
 .edu-list {
   display: flex;
   flex-direction: column;
@@ -515,7 +515,7 @@ section+section {
   }
 }
 
-/* ---------- Skills ---------- */
+/* Skills */
 .skill-groups {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
@@ -565,7 +565,7 @@ section+section {
   font-size: 1rem;
 }
 
-/* ---------- Projects ---------- */
+/* Projects */
 .proj-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -669,7 +669,7 @@ section+section {
   color: var(--accent-warm);
 }
 
-/* ---------- Contact ---------- */
+/* Contact */
 .contact-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
